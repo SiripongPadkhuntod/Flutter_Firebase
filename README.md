@@ -1,10 +1,3 @@
-
-แน่นอนครับ นี่คือตัวอย่างไฟล์ README.md สำหรับโปรเจกต์ของคุณที่อยู่บน GitHub ที่ [https://github.com/SiripongPadkhuntod/Flutter_Firebase](https://github.com/SiripongPadkhuntod/Flutter_Firebase):
-
-markdown
-
-Copy code
-
 ``# Flutter Firebase
 
 This project is a mobile application built using Flutter and Firebase. It demonstrates how to integrate Firebase services with a Flutter application to provide features such as authentication, database management, and more.
