@@ -82,7 +82,7 @@ Replace the values with your actual Firebase configuration.
     
 
 ## Project Structure
-
+ ```
 Flutter_Firebase/
 ├── android/
 ├── ios/
@@ -97,7 +97,7 @@ Flutter_Firebase/
 ├── .gitignore
 ├── pubspec.yaml
 └── README.md
-
+```
 
 -   **lib/models/**: Contains the data models.
 -   **lib/screens/**: Contains the UI screens.
