@@ -1,4 +1,4 @@
-``# Flutter Firebase
+# Flutter Firebase
 
 This project is a mobile application built using Flutter and Firebase. It demonstrates how to integrate Firebase services with a Flutter application to provide features such as authentication, database management, and more.
 
