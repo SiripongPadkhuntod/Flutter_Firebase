@@ -76,7 +76,7 @@ Replace the values with your actual Firebase configuration.
 
 1.  Run the application:
 
-    `flutter run` 
+    `flutter run`  or ctrl + shift + p
     
 2.  Use an emulator or physical device to see the application in action.
     
